@@ -13,6 +13,6 @@
 ## Spot 4: A00448559
 
 # Team 3
-## Spot 1:
-## Spot 2:
-## Spot 3:
+## Spot 1:A00442625
+## Spot 2:A00422414
+## Spot 3:A00467147
