@@ -2,9 +2,9 @@
 ## Spot 1:
 
 # Team 1
-## Spot 1: A00456412
+## Spot 1:
 ## Spot 2:
-## Spot 3:
+## Spot 3: A00456412
 
 # Team 2
 ## Spot 1:
